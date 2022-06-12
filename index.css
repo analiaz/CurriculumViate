@@ -60,9 +60,17 @@ h3 {
 }
 
 /*aside*/
-#anyfoto {
+.anyfoto {
     max-width: 35rem;
     max-height: 35rem;
+    border-radius: 100rem;
+    margin: 0rem 4rem;
+}
+
+@media (min-width: 768px) {
+    .anyfoto {
+        margin: 0rem 16rem;
+    }
 }
 
 
