@@ -51,6 +51,9 @@ h3 {
     text-align: center;
 }
 
+.footer {
+    text-align: center;
+}
 
 .introduccion__texto {
     text-align: center;
@@ -58,8 +61,8 @@ h3 {
 
 /*aside*/
 #anyfoto {
-    max-width: 40rem;
-    max-height: 40rem;
+    max-width: 35rem;
+    max-height: 35rem;
 }
 
 
